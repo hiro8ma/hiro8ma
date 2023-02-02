@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=hiro8ma&color=blueviolet&style=for-the-badge)
+
 <!--
 **hiro8ma/hiro8ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
