@@ -1,5 +1,4 @@
 name: profile-summmary-cards
-
 on:
   schedule:
     - cron: '* */24 * * *'
@@ -7,7 +6,6 @@ on:
     branches:
       - main
   workflow_dispatch:
-
 jobs:
   generate:
     name: Generate
@@ -18,7 +16,7 @@ jobs:
       - name: Generate cards
         uses: vn7n24fzkq/github-profile-summary-cards@v0.5.3
         env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
         with:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: 9
