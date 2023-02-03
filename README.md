@@ -9,7 +9,7 @@
 
 <p align="left">
 <a href="https://twitter.com/hir08ma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hir08ma" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hiroyuki-masuda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiroyuki-masuda" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hiroyuki-masuda-b88b761a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiroyuki-masuda" height="30" width="40" /></a>
 <a href="https://kaggle.com/hiroma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hiroma" height="30" width="40" /></a>
 <a href="https://fb.com/hiro.ma888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hiro.ma888" height="30" width="40" /></a>
 </p>
