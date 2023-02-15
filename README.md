@@ -1,7 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiro8ma&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="hiro8ma" /> </p>
-
 [![](dist/snk.svg)](https://github.com/hiro8ma)
-
 
 <p align="left">
 <a>
@@ -10,6 +7,7 @@
 </p>
 
 <p align="left">
+<img  align="center" src="https://komarev.com/ghpvc/?username=hiro8ma&label=＋&color=blueviolet&style=for-the-badge" alt="hiro8ma" />
 <a href="https://twitter.com/hir08ma" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hir08ma" height="30" width="40" />
 </a>
