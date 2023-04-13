@@ -26,9 +26,6 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="30"/>
 </a>
-<a href="https://elixir-lang.org" target="_blank" rel="noreferrer">
-  <img align="center" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="30" height="30"/>
-</a>
 <a href="https://golang.org" target="_blank" rel="noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/>
 </a>
