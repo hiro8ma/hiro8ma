@@ -36,7 +36,7 @@
   <img align="center" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="30" height="30"/>
 </a>
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="30" height="30"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="30" height="30"/>
 </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
   <img align="center" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/>
