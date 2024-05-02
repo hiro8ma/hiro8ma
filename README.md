@@ -46,8 +46,6 @@
 </a>
 </p>
 
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hiro8ma&show_icons=true&locale=en&theme=synthwave" alt="hiro8ma" width="300" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiro8ma&theme=synthwave" alt="hiro8ma"  width="310" />
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiro8ma&theme=synthwave" alt="hiro8ma"  width="330" />
 </p>
