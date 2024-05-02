@@ -2,7 +2,7 @@
 
 <p align="left">
 <a>
-  <img src="https://github-profile-trophy.vercel.app/?username=hiro8ma&theme=dracula" alt="hiro8ma" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hiro8ma&theme=dracula&column=7" alt="hiro8ma" />
 </a>
 </p>
 
