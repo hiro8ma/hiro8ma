@@ -6,12 +6,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=go,rust,react,electron,nextjs,nestjs,rabbitmq,html,css,actix,anaconda,androidstudio,aws,gcp,cpp,docker,kubernetes,figma,firebase,grafana,graphql,js,ts,neovim,solidity)](https://skillicons.dev)
 
-<h2 align="left">Status</h2>
+<h2 align="left">Portfolio</h2>
 <p align="left">
-  <a>
-     <img src="https://github-profile-trophy.vercel.app/?username=hiro8ma&theme=dracula&column=3&rank=-C,-B" alt="hiro8ma" />
-  </a>
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiro8ma&theme=synthwave" alt="hiro8ma"  width="330" />
+  https://hiro8ma.github.io/portfolio/
 </p>
