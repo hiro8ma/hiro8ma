@@ -18,31 +18,58 @@ Engineering Manager & Architect with 10+ years of experience. Currently focused 
 
 **AI / ML**
 
-[![AI Skills](https://skillicons.dev/icons?i=python,tensorflow&theme=dark)](https://skillicons.dev)
-![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-FF6F00?style=for-the-badge)
-![FastMCP](https://img.shields.io/badge/FastMCP-009688?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)
-![LoRA](https://img.shields.io/badge/LoRA-E91E63?style=for-the-badge)
-![MLX](https://img.shields.io/badge/MLX-000000?style=for-the-badge&logo=apple&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-1a1a2e?style=flat-square&logo=anthropic&logoColor=a78bfa)
+![Gemini](https://img.shields.io/badge/Gemini-1a1a2e?style=flat-square&logo=google&logoColor=a78bfa)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-1a1a2e?style=flat-square&logo=googlecloud&logoColor=a78bfa)
+![MCP](https://img.shields.io/badge/MCP-1a1a2e?style=flat-square&logoColor=a78bfa)
+![FastMCP](https://img.shields.io/badge/FastMCP-1a1a2e?style=flat-square&logoColor=a78bfa)
+![RAG](https://img.shields.io/badge/RAG-1a1a2e?style=flat-square&logoColor=a78bfa)
+![LoRA](https://img.shields.io/badge/LoRA-1a1a2e?style=flat-square&logoColor=a78bfa)
+![MLX](https://img.shields.io/badge/MLX-1a1a2e?style=flat-square&logo=apple&logoColor=a78bfa)
+![LangChain](https://img.shields.io/badge/LangChain-1a1a2e?style=flat-square&logoColor=a78bfa)
+![Langfuse](https://img.shields.io/badge/Langfuse-1a1a2e?style=flat-square&logoColor=a78bfa)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-1a1a2e?style=flat-square&logoColor=a78bfa)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a2e?style=flat-square&logo=tensorflow&logoColor=a78bfa)
+![Ollama](https://img.shields.io/badge/Ollama-1a1a2e?style=flat-square&logoColor=a78bfa)
+![Pydantic](https://img.shields.io/badge/Pydantic-1a1a2e?style=flat-square&logoColor=a78bfa)
+![Genkit](https://img.shields.io/badge/Genkit-1a1a2e?style=flat-square&logo=firebase&logoColor=a78bfa)
 
-**Languages & Frameworks**
+**Languages**
 
-[![Languages](https://skillicons.dev/icons?i=go,rust,cpp,ts,js,python,solidity,react,nextjs,electron,nestjs&theme=dark)](https://skillicons.dev)
+![Go](https://img.shields.io/badge/Go-1a1a2e?style=flat-square&logo=go&logoColor=a78bfa)
+![Rust](https://img.shields.io/badge/Rust-1a1a2e?style=flat-square&logo=rust&logoColor=a78bfa)
+![C++](https://img.shields.io/badge/C++-1a1a2e?style=flat-square&logo=cplusplus&logoColor=a78bfa)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square&logo=typescript&logoColor=a78bfa)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=a78bfa)
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=a78bfa)
+![Solidity](https://img.shields.io/badge/Solidity-1a1a2e?style=flat-square&logo=solidity&logoColor=a78bfa)
+
+**Frameworks**
+
+![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=a78bfa)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square&logo=nextdotjs&logoColor=a78bfa)
+![Electron](https://img.shields.io/badge/Electron-1a1a2e?style=flat-square&logo=electron&logoColor=a78bfa)
+![NestJS](https://img.shields.io/badge/NestJS-1a1a2e?style=flat-square&logo=nestjs&logoColor=a78bfa)
 
 **Infrastructure & Cloud**
 
-[![Infra](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,grafana,prometheus,github,firebase&theme=dark)](https://skillicons.dev)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-1a1a2e?style=flat-square&logo=googlecloud&logoColor=a78bfa)
+![AWS](https://img.shields.io/badge/AWS-1a1a2e?style=flat-square&logo=amazonwebservices&logoColor=a78bfa)
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=a78bfa)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1a2e?style=flat-square&logo=kubernetes&logoColor=a78bfa)
+![Terraform](https://img.shields.io/badge/Terraform-1a1a2e?style=flat-square&logo=terraform&logoColor=a78bfa)
+![Istio](https://img.shields.io/badge/Istio-1a1a2e?style=flat-square&logo=istio&logoColor=a78bfa)
+![Grafana](https://img.shields.io/badge/Grafana-1a1a2e?style=flat-square&logo=grafana&logoColor=a78bfa)
+![Prometheus](https://img.shields.io/badge/Prometheus-1a1a2e?style=flat-square&logo=prometheus&logoColor=a78bfa)
+![Firebase](https://img.shields.io/badge/Firebase-1a1a2e?style=flat-square&logo=firebase&logoColor=a78bfa)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1a2e?style=flat-square&logo=githubactions&logoColor=a78bfa)
 
 **Communication & Data**
 
-[![Data](https://skillicons.dev/icons?i=graphql,rabbitmq&theme=dark)](https://skillicons.dev)
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white)
-![ConnectRPC](https://img.shields.io/badge/ConnectRPC-2B4162?style=for-the-badge)
+![gRPC](https://img.shields.io/badge/gRPC-1a1a2e?style=flat-square&logoColor=a78bfa)
+![ConnectRPC](https://img.shields.io/badge/ConnectRPC-1a1a2e?style=flat-square&logoColor=a78bfa)
+![GraphQL](https://img.shields.io/badge/GraphQL-1a1a2e?style=flat-square&logo=graphql&logoColor=a78bfa)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1a1a2e?style=flat-square&logo=rabbitmq&logoColor=a78bfa)
 
 ---
 
@@ -72,8 +99,6 @@ Engineering Manager & Architect with 10+ years of experience. Currently focused 
 </div>
 
 ---
-
-### Portfolio
 
 <div align="center">
 
